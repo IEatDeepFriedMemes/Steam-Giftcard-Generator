@@ -1,4 +1,4 @@
-Steam Giftcard Generator
+-- Steam Giftcard Generator --
 
 Steam Giftcard Generator made by IEatDeepFriedMemes on GitHub
 
