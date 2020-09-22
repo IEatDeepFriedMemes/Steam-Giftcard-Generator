@@ -1,3 +1,5 @@
+Steam Giftcard Generator
+
 Steam Giftcard Generator made by IEatDeepFriedMemes on GitHub
 
 Run 'pip install -r Requirements.txt' in Command Prompt
